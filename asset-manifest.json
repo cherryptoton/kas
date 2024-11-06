@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fb2c0b9.css",
+    "main.js": "/static/js/main.6a9e15d4.js",
+    "static/media/anyone-bg.png": "/static/media/anyone-bg.fa5e75712a025206903f.png",
+    "static/media/core_golang_nacho.png": "/static/media/core_golang_nacho.67d99bebc7eee16ba855.png",
+    "static/media/CabinetGrotesk-Bold.otf": "/static/media/CabinetGrotesk-Bold.2619526040c3adf53b83.otf",
+    "static/media/CabinetGrotesk-Black.otf": "/static/media/CabinetGrotesk-Black.8e4a33ec6bbcedc8de0d.otf",
+    "static/media/Kaspium.jpg": "/static/media/Kaspium.1950229b8643559895a5.jpg",
+    "static/media/Kaswere.jpg": "/static/media/Kaswere.fbcec17b64360bfc6fb8.jpg",
+    "static/media/tangem.png": "/static/media/tangem.ac17c9bb82cbe3b53731.png",
+    "index.html": "/index.html",
+    "main.0fb2c0b9.css.map": "/static/css/main.0fb2c0b9.css.map",
+    "main.6a9e15d4.js.map": "/static/js/main.6a9e15d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb2c0b9.css",
+    "static/js/main.6a9e15d4.js"
+  ]
+}
